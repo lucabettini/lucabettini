@@ -1,6 +1,6 @@
 ## HELLO WORLD 👋🏼
 
-**Full stack** developer from **Italy** 🇮🇹 ( 🤌 ), building responsive **websites** and RESTful **APIs** with a focus on **code clarity** and **efficiency**.
+I'm Luca, a **full stack** developer from **Italy** 🇮🇹 ( 🤌 ), building responsive **websites** and RESTful **APIs** with a focus on **code clarity** and **efficiency**.
 
 This is a **full list** of all the **public repositories** you will find here: 
 - 💡 **[claudiabettini.it](https://github.com/lucabettini/claudiabettini.it)** - repo for the [personal website](https://claudiabettini.it) of an architect & lighting designer. Built with React, Redux & Sass, with a built-in custom CMS and email delivery through SendGrid. 
