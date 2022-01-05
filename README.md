@@ -1,6 +1,6 @@
 ## HELLO WORLD 👋🏼
 
-I'm Luca, a **full stack** developer from **Italy** 🇮🇹 ( 🤌 ), building responsive **websites** and RESTful **APIs** with a focus on **code clarity** and **efficiency**.
+I'm Luca, a **full stack** developer from **Italy** 🇮🇹, currently building responsive **websites** and RESTful **APIs** with a focus on **code clarity** and **efficiency**.
 
 This is a **full list** of all the **public repositories** you will find here: 
 - ⏱️ **[timely-client](https://github.com/lucabettini/timely-client)** - frontend repo for [Timely](https://timely.lucabettini.com), a digital schedule and time-tracker, built with React, Redux, RTK Query & Material-UI. 
